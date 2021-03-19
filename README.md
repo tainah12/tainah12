@@ -15,11 +15,7 @@
 </br></br>
 ### 📄 Um pouco sobre mim: 
 <h4> Olá!</h4>
-<p> Estou iniciando minha carreira como desenvolvedora fullstack. Fiz 6 meses intensivos de curso pela Labenu, onde todo dia desenvolvia projetos em grupo e individuais. Com a grande carga horária (9 horas por dia), pude desenvolver minhas habilidades de Git, HTML, CSS, Javascript, React, Jest, Node, Typescript e MySQL. Além de habilidades técnicas, pude aprender a trabalhar em grupo a partir do mesmo projeto e também a melhorar minhas soft skills. 
-  
- Apesar de iniciante na área de desenvolvimento, tenho experiências com educação, pesquisa, design, gestão de projetos e outras das quais aprendi a ter uma boa comunicação com diferentes equipes. Durante esse tempo como estudante e profissional, pude perceber que gosto muito de trabalhar em equipes que se ajudam e tem o mesmo propósito. Por isso, busco uma empresa que valorize o trabalho em grupo.](Olá! Estou iniciando minha carreira como desenvolvedora fullstack. Fiz 6 meses intensivos de curso pela Labenu, onde todo dia desenvolvia projetos em grupo e individuais. Com a grande carga horária (9 horas por dia), pude desenvolver minhas habilidades de Git, HTML, CSS, Javascript, React, Jest, Node, Typescript e MySQL. 
- 
- Além de habilidades técnicas, pude aprender a trabalhar em grupo a partir do mesmo projeto e também a melhorar minhas soft skills. Apesar de iniciante na área de desenvolvimento, tenho experiências com educação, pesquisa, design, gestão de projetos e outras das quais aprendi a ter uma boa comunicação com diferentes equipes. Durante esse tempo como estudante e profissional, pude perceber que gosto muito de trabalhar em equipes que se ajudam e tem o mesmo propósito. Por isso, busco uma empresa que valorize o trabalho em grupo. </p> 
+<p> Estou iniciando minha carreira como desenvolvedora fullstack. Fiz 6 meses intensivos de curso pela Labenu, onde todo dia desenvolvia projetos em grupo e individuais. Com a grande carga horária (9 horas por dia), pude desenvolver minhas habilidades de Git, HTML, CSS, Javascript, React, Jest, Node, Typescript e MySQL. Além de habilidades técnicas, pude aprender a trabalhar em grupo a partir do mesmo projeto e também a melhorar minhas soft skills. </p> </br>
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
