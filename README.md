@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Tainah Bernardo! =) </h1>
 <h3 align="center">Desenvolvedora Full Stack Junior</h3>
 
-</br></br>
+</br>
 
 <h3 align="center">🌱Atualmente estudando e aprimorando as seguintes tecnologias: </h3>
 <p align="center">React.js, MySQL, Javascript, Typescript, Node, Git, HTML, CSS </p>
