@@ -1,6 +1,3 @@
- ![Outdoor Adventure Facebook Cover](https://user-images.githubusercontent.com/71162750/111806121-6e3c4f80-88b0-11eb-9011-e2e63f2aa4c9.png) 
-</br>
-
 <h1 align="center">Olá, sou a Tainah Bernardo! =) </h1>
 <h3 align="center">Desenvolvedora Full Stack Junior</h3>
 
