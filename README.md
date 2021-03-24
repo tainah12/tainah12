@@ -14,7 +14,7 @@
 
 </br></br>
 ### 📄 Um pouco sobre mim: 
-<h4> Olá!</h4>
+
 <p> Estou iniciando minha carreira como desenvolvedora full stack. Fiz 6 meses intensivos de curso pela Labenu, onde todo dia desenvolvia projetos em grupo e individuais. Com a grande carga horária (9 horas por dia), pude desenvolver minhas habilidades de Git, HTML, CSS, Javascript, React, Jest, Node, Typescript e MySQL. Além de habilidades técnicas, pude aprender a trabalhar em grupo a partir do mesmo projeto e também a melhorar minhas soft skills. </p> </br>
 
 <h3 align="left">Redes sociais:</h3>
