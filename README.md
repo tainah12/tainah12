@@ -1,21 +1,26 @@
-<h1 align="center">Olá, sou a Tainah Bernardo! =) </h1>
-<h3 align="center">Desenvolvedora Full Stack Junior</h3>
+<h1 align="center">Hello, I'm Tainah Bernardo! =) </h1>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 </br>
 
-<h3 align="center">🌱Atualmente estudando e aprimorando as seguintes tecnologias: </h3>
-<p align="center">React.js, MySQL, Javascript, Typescript, Node, Git, HTML, CSS </p>
+<h3 align="center">🌱Backend Developer: </h3>
+<p align="center">Ruby on Rails, Node.js, React.js, MySQL, Javascript, Typescript, Git, HTML, CSS </p>
 
-<h3 align="center">  📫 Contato: </h3>
+<h3 align="center"> 📫 Contact: </h3>
 <h4 align="center">
  <a href="https://www.linkedin.com/in/tainah-bernardo/">Linkedin: Tainah Bernardo </a>   ||
   <a href="mailto: tainahboarini@gmail.com?">E-mail: tainahboarini@gmail.com </a>  
 </h4>
 
 </br></br>
-### 📄 Um pouco sobre mim: 
+### 📄 A little about me: 
 
-<p> Estou iniciando minha carreira como desenvolvedora full stack. Fiz 6 meses intensivos de curso pela Labenu, onde todo dia desenvolvia projetos em grupo e individuais. Com a grande carga horária (9 horas por dia), pude desenvolver minhas habilidades de Git, HTML, CSS, Javascript, React, Jest, Node, Typescript e MySQL. Além de habilidades técnicas, pude aprender a trabalhar em grupo a partir do mesmo projeto e também a melhorar minhas soft skills. </p> </br>
+<p> I'm Tai, a Brazilian living in Buenos Aires for the past 2 years. I worked as a developer for e-commerce startups in Brazil for 4 years. 
+During that time, I worked remotely with a distributed team in various locations, using Scrum and Kanban. I helped build solutions for ERP platforms, connecting delivery services, payments, inventory, growth, and system improvements for medium and large sellers in Brazil. 
+For this, I used technologies such as microservices, AWS, Google Cloud, Grafana, Redis, MySQL, Docker, and languages like Ruby on Rails, Node.js, as well as a bit of frontend with React.
+
+Beyond the technical side, I love working in teams, meeting people, exploring cultures, and sharing knowledge. That's why, in my experiences at these companies, I aimed to participate in DevOps teams, cybersecurity, and study groups. </p> </br>
+
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
