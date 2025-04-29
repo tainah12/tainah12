@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Tainah Bernardo! =) </h1>
-<h3 align="center">Backend Developer</h3>
 
 </br>
 
